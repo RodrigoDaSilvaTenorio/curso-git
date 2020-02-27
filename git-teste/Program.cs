@@ -12,6 +12,8 @@ namespace git_teste
         {
 
             Console.WriteLine("Ola Mundo.");
+            Console.WriteLine("Buongiorno.");
+            Console.WriteLine("Tenha um bom dia!!");
             Console.ReadLine();
         }
     }
